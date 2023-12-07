@@ -28,7 +28,7 @@ public class MyWorker extends Worker {
     }
 
     private static final String TAG = MyWorker.class.getSimpleName();
-    private static final String APP_ID = "94ae68e197293f897867528a51624b1c";
+    private static final String APP_ID = "Login openweathermap.org untuk mengambil API KEY";
     public static final String EXTRA_CITY = "city";
     private Result resultStatus;
 
